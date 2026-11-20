@@ -1,4 +1,4 @@
-# C-OPP
+# OPP Techniki Efektywnego Programowania
 Zbiór projektów zrealizowanych w ramach kursu **Techniki Efektywnego Programowania** na Politechnice Wrocławskiej. Repozytorium prezentuje praktyczne zastosowanie paradygmatu programowania obiektowego, ręcznego zarządzania pamięcią oraz przeciążania operatorów w czystym standardzie **C++98**.
 
 ## 1. `CNumber` — Arytmetyka dużych liczb i przeciążanie operatorów
