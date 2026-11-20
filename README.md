@@ -59,17 +59,18 @@ Obiektowy silnik służący do wczytywania, automatycznej naprawy, łączenia or
 
 ```text
 > enter + a
-Błąd w wyrażeniu. Naprawiona formuła: + a 1
+Too Little Arguments Created tree: + a 1
 
 > enter * + a b 8
-Przetwarzana formuła: * + a b 8
+Created tree: * + a b 8
 
 > vars
 a b
 
 > comp 2 3
-Wynik: 40
+Variables set successfully
+Calculated value: 40
 
 > join sin x
-Połączona formuła: * + a b sin x
+Created tree: * + sin x b 8
 ```
