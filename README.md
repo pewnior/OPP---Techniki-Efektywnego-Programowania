@@ -73,8 +73,3 @@ Wynik: 40
 > join sin x
 Połączona formuła: * + a b sin x
 ```
-
----
-# Kompilacja zadania z drzewami wyrażeń (CTree / CNode)
-g++ -std=c++98 -Wall -Wextra -pedantic *.cpp -o ctree_app
-```
